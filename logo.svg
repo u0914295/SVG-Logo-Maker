@@ -1,0 +1,6 @@
+
+        <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+            <rect x="50" y="10" width="200" height="180" fill="Purple" />
+            <text x="150" y="115" font-size="60" dominant-baseline="middle" text-anchor="middle" fill="Blue">CAW</text>
+        </svg>
+    
