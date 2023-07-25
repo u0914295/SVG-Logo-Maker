@@ -1,6 +1,18 @@
 {
+  "name": "Logo Maker",
+  "version": "1.0.0",
+  "description": "Logo Maker",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
     "inquirer": "^7.3.3",
     "install": "^0.13.0"
-  }
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "keywords": [],
+  "author": ""
 }
